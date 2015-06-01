@@ -13,4 +13,5 @@ http://docs.aws.amazon.com/lambda/latest/dg/walkthrough-s3-events-adminuser.html
 
 This also helped:
 https://alestic.com/2014/11/aws-lambda-cli/
- Todo: This is dirty, naming conventions etc , 
+
+Todo: This is dirty, clean up naming conventions etc , 
